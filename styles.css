@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@700&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Overpass:wght@200;300;500;600;700;800;900&family=Oxanium:wght@200;300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Sacramento&display=swap');
+
+body{
+    /* background-image: 
+    url("Group 23 (2).png"); */
+    /* background-image:  */
+    background-color: black;
+    overflow-x: hidden;
+}
+
+.sudo{
+    height: 47.45px;
+    margin-top: 35px;
+    margin-left: 86px
+}
+
+.exun{
+    height: 47.45px;
+    margin-left: 35px;
+}
+
+.nav{
+    margin-left: 395px;
+}
+
+.lvl1{
+    height: 42.44px;
+    position: absolute;
+    top: 150px;
+    left: 169.13px;
+}
+
+.txt{
+    position:absolute;
+    width: 550px;
+    left: 175px;
+    top: 260px;
+    font-family: 'Oxanium';
+    color: #D1D1D1;
+    line-height: 36.25px;
+    text-align: justify;
+    letter-spacing: 4%;
+}
+
+.barcode{
+    position: absolute;
+    top: 526px;
+    height: 190px;
+    width: 550px;
+    left: 175px;
+}
+
+.input{
+    position: absolute;
+    height: 55.5px;
+    top: 800px;
+    left: 185px;
+    width: 550px;
+    border: 1px solid #D1D1D1;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: 'Oxanium';
+    font-size: 34px;
+    color:#D1D1D1
+}
+
+.right{
+    position: absolute;
+    top: 237.25px;
+    right: 100px;
+    height: 735.5px;
+}
